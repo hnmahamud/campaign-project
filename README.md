@@ -2,7 +2,7 @@
 
 The client server is built with ReactJS and And the backend server is built with NodeJS. Two servers need to be opened to run the project perfectly.
 
-#### [NB: To facilitate the examiner's checking, I have added the environment variable(.env and .env.local) files. Although this is not recommended, But i did it because examiner can quickly run the project without any configuration. If the examiner wants, he can change them according to his own] -- DANGER!
+#### [NB: To facilitate the examiner's checking, I have added the environment variable(.env and .env.local) files. Although this is not recommended, But i did it because examiner can quickly run the project without any configuration. If the examiner wants, he/she can change them according to his own] -- DANGER!
 
 # To run the project:
 
@@ -51,6 +51,6 @@ Email/username: admin@gmail.com
 Password: 12345aA@
 ```
 
-If the examiner wants, he can open the account with linkedin or email password. Dummy login credential is provided to speed up the checking process. A lot of data is already added this account.
+If the examiner wants, he/she can open the account with linkedin or email password. Dummy login credential is provided to speed up the checking process. A lot of data is already added this account.
 
 ### That's it, thank you.
