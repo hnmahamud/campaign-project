@@ -42,4 +42,15 @@ After doing these tasks your client server will run successfully.
 http://localhost:5173/
 ```
 
-To check out the full project you need to hit this url from your browser. That's it, thank you.
+To check out the full project you need to hit this url from your browser.
+
+## Dummy login credential
+
+```sh
+Email/username: admin@gmail.com
+Password: 12345aA@
+```
+
+If the examiner wants, he can open the account with linkedin or email password. Dummy login credential is provided to speed up the checking process. A lot of data is already added this account.
+
+### That's it, thank you.
